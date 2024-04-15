@@ -1,2 +1,3 @@
-# Similar-Norm-More-Transferable
-Official Code of HNA and TNA
+# Similar Norm More Transferable: Rethinking Feature Norms Discrepancy in Adversarial Domain Adaptation
+This is the official PyTorch implementation of Paper "Similar Norm More Transferable: Rethinking Feature Norms
+Discrepancy in Adversarial Domain Adaptation".
